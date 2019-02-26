@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
+    "react-fontawesome": "^1.6.1",
     "react-scripts": "2.1.5"
   },
   "scripts": {
@@ -21,5 +22,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "react-dev-utils": "^7.0.3"
+  }
 }
