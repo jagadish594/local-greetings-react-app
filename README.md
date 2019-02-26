@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Greetings Tranlation app
+## Greetings Translation app
 Here are the steps:
 1) Type in the greetings
 2) Add multiple names to the people
