@@ -7,6 +7,8 @@ Here are the steps:
 3) Choose a language from the dropdown menu
 4) Hit Submit to see the result 
 
+Note: Used Yandex Translate API to do the translation
+
 ## Available Scripts
 
 In the project directory, you can run:
